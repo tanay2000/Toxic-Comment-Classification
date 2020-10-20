@@ -1,8 +1,5 @@
 # Toxic-Comment-Classification-Challenge
 
-The notebook is the work I have done to compete in the kaggle Natural Language Processing Challenge : Jigsaw Toxic Comment Classification Challenge.<br>
-https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
-
 The task was to classify online comments into 6 categories: toxic, severve_toxic, obscene, threat, insult, identity_hate. 
 The competition metric was the average of the individual AUCs of each predicted class.
 
